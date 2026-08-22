@@ -1,1 +1,1 @@
-GlobeTrotter odoo hackathon problem statement
+GlobeTrotter odoo hackathon problem statement trip planning.
