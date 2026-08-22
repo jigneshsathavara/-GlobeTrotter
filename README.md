@@ -65,3 +65,5 @@ Set `NEXT_PUBLIC_SITE_URL` and a strong `JWT_SECRET` for production. See `.env.e
 6. Open **Budget** and confirm the itemized total and category chart.
 7. Refresh the page and sign in again to verify persistence.
 8. Enable sharing under **Community**, then copy the public itinerary link.
+
+video link :- https://drive.google.com/file/d/1fXwFcd1OgGjMD8rIBy0rpCrAhUALd0to/view?usp=drive_link
